@@ -39,23 +39,7 @@ Enjoy 🦀⚓🚀
 *The juicy part.*
 
 1. Read the ["developing" section](https://docs.solana.com/developing/programming-model/overview) of the docs [2-3h] - you will get a lot of questions, but that's ok. Just write them down and you'll be surprised how quickly they get answered as you progress. 
-2. Go play with [hello world app](https://github.com/solana-labs/example-helloworld) [2-3h] - rebuilding/tweaking will help your understanding a lot. 
-3. Do [paulx's excellent tutorial](https://paulx.dev/blog/2021/01/14/programming-on-solana-an-introduction/) [1-2d]
-4. If you feel you need more tutorials:
-    1. [Solana transactions in-depth](https://medium.com/@asmiller1989/solana-transactions-in-depth-1f7f7fe06ac2)
-    2. Code a smart contract with [David Choi via video tutorials](https://www.youtube.com/watch?v=gA7hFdq2h9Q)
-5. Otherwise, if you're ready to progress, it's time to read some actual production program code.
-    1. [This library](https://github.com/solana-labs/solana-program-library/) contains code for on-chain programs written by Solana core devs & broader community. It's a gold mine for learning. Pick something you already know (eg token-swap == basically uniswap) → read through it → try adding some features / messing with code. You will learn a lot about architecture and design trade-offs.
-    2. [Helpful visual diagrams](https://github.com/ilmoi/solana-serum-program-viz) for some of the programs in there
-7. Now the twist. All of the above showcases "traditional" way of building programs on solana - but there's a simpler / faster way by using [the anchor framework](https://github.com/project-serum/anchor) ⚓
-    1. Read [this twitter thread](https://twitter.com/armaniferrante/status/1411589629384355840) to understand why it's so powerful
-    2. Follow [anchor's onboarding tutorial](https://project-serum.github.io/anchor/getting-started/introduction.html)
-    3. Learn to [debug custom errors with anchor](https://www.notion.so/Debugging-Custom-Anchor-Errors-b8540dd418c44a4e939ab17c56a3fd3b)
-    4. So should you build with anchor or the traditional way? It's up to you, but I would recommend going with anchor. You'll move faster, and have certain security stuff out of the box.
-8. Build stuff! Fun fun fun. Ideas:
-    1. Build a simple blockchain wallet. Personally the first thing I built on Solana was a [tui wallet](https://github.com/ilmoi/degen-wallet) that could do both eth and sol transactions. Taught me a ton about key management and how the two chains compare.
-    2. Take something you know on another chain and re-build it on Solana. I picked [fomo3d](https://github.com/ilmoi/solana_fomo3d), which those of you who were around for 2017 craze might remember.
-    3. Pick a project in the space that you like and contribute to their repo. [Mango](https://mango.markets/) and [Serum](https://projectserum.com/) are the two that immediately come to mind - both are very keen to fund developers building on top of their protocols.
+2. [Solana Bootcamp Chicago Jan 22](https://www.youtube.com/playlist?list=PLilwLeBwGuK7Z2dXft_pmLZ675fuPgkA0) 8 videos introducing the Solana programming / account model, PDAs, CPIs, runtime limitations, and a few demo programs. The videos are very concise and eloquent.
 
 # Where to get help
 

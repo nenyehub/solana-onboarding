@@ -39,7 +39,7 @@ Enjoy 🦀⚓🚀
 *The juicy part.*
 
 1. Read the ["developing" section](https://docs.solana.com/developing/programming-model/overview) of the docs [2-3h] - you will get a lot of questions, but that's ok. Just write them down and you'll be surprised how quickly they get answered as you progress. 
-2. [Solana Bootcamp Chicago Jan 22](https://www.youtube.com/playlist?list=PLilwLeBwGuK7Z2dXft_pmLZ675fuPgkA0) 8 videos introducing the Solana programming / account model, PDAs, CPIs, runtime limitations, and a few demo programs. The videos are very concise and eloquent.
+2. [Solana Bootcamp Chicago Jan 22](https://www.youtube.com/playlist?list=PLilwLeBwGuK7Z2dXft_pmLZ675fuPgkA0) [8 videos] - Introduces the Solana programming / account model, PDAs, CPIs, runtime limitations, and a few demo programs. The videos are very concise and eloquent.
 
 # Where to get help
 
